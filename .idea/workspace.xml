@@ -23,13 +23,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="50" />
-          <entry key="html" value="3647" />
+          <entry key="html" value="3987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="50" />
-          <entry key="HTML" value="3647" />
+          <entry key="HTML" value="3987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="426" column="38" selection-start-line="426" selection-start-column="38" selection-end-line="426" selection-end-column="38" />
+            <state relative-caret-position="307">
+              <caret line="524" column="26" lean-forward="true" selection-start-line="524" selection-start-column="26" selection-end-line="524" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -243,12 +243,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538919724560</updated>
       <workItem from="1538919726933" duration="5356000" />
-      <workItem from="1539070277020" duration="1997000" />
+      <workItem from="1539070277020" duration="2924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13111000" />
+    <option name="totallyTimeSpent" value="14038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -330,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="426" column="38" selection-start-line="426" selection-start-column="38" selection-end-line="426" selection-end-column="38" />
+        <state relative-caret-position="307">
+          <caret line="524" column="26" lean-forward="true" selection-start-line="524" selection-start-column="26" selection-end-line="524" selection-end-column="26" />
         </state>
       </provider>
     </entry>
